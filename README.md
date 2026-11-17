@@ -57,3 +57,14 @@ I examined the firewall rules for a demilitarized zone (DMZ) to better understan
 I reviewed the LAN firewall rules in pfSense to understand how traffic is allowed or restricted based on security policies. This helped me connect firewall configurations to network protection.
 
 ![pfSense LAN Firewall Rules](screenshots/pfsense-lan-firewall-rules.png)
+
+
+## How This Project Relates to Security Operations
+
+This lab helped me understand how different parts of a network work together and how security controls help protect them.
+
+I practiced investigating network connections, reviewing firewall rules, checking user permissions, and examining Windows security settings.
+
+These are foundational skills I can build on in a Security Operations Center (SOC), where analysts investigate suspicious activity, review security alerts, document findings, and help protect company systems.
+
+This project was completed in a simulated lab environment as part of my cybersecurity coursework.
